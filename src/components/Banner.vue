@@ -3,7 +3,7 @@
         <div class="apresentacao">
             <img src="../assets/imagens/logo.svg" alt="Logo fo Cooking' UP" class="logo" />
 
-            <p class="cabecalho-lh frase-cabecalho">
+            <p class="cabecalho-lg frase-cabecalho">
                 <span class="texto-verde">Um banquete de ideias para despertar o chef que há em você!</span>
             </p>
             <p class="subtitulo-lg">
